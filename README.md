@@ -16,3 +16,4 @@ Los resultados de la segmentación se representan mediante distintos gráficos, 
 
 En conjunto, este proyecto sirve como una primera aproximación práctica al análisis de datos aplicado a problemas reales y simulados.
 
+aqui esta el link de nuestra página web: https://analisisdemercadoapplehmp.base44.app/
